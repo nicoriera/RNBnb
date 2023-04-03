@@ -15,3 +15,8 @@
 ---
 
 <p>You can check it here : https://https://airbnb-djessy-lab.herokuapp.com/</p>
+ <br>
+ <div align="center">
+<img src="app/assets/images/mobile (1).gif" width="700 height="500"/>
+ </div>
+
